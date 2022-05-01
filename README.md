@@ -1,5 +1,7 @@
 # Meli Title Scrapper
 
+This was my first real Python project
+
 ## Table of Contents
 
 - [About](#about)
